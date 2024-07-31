@@ -1,0 +1,49 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0px;
+  margin: 0px;
+}
+.accomodation {
+  color: rgb(23, 132, 185);
+}
+p.para {
+  color: rgb(97, 97, 97);
+  font-size: 17px;
+  line-height: 1.6;
+  text-align: justify;
+}
+.custom-table thead th {
+  background-color: rgb(23, 132, 185);
+  font-size: 15px;
+  color: white; /* Optional: change text color for better readability */
+}
+.custom-table tbody td {
+  color: rgb(97, 97, 97);
+  font-size: 15px;
+}
+
+.custom-table tbody th {
+  color: black;
+  font-size: 15px;
+}
+.termConditions {
+  background-color: rgb(23, 132, 185);
+  color: white;
+}
+
+.orderList ul,
+li {
+  font-size: 17px;
+}
+ul > li {
+  padding-top: 6px;
+}
+.cancellation_policy > h2,
+.transortation {
+  color: rgb(23, 132, 185);
+}
+.cancellation_policy > ul > li {
+  color: rgb(97, 97, 97);
+  font-size: 17px;
+  line-height: 1.6;
+}

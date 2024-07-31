@@ -1,0 +1,16 @@
+.header-navbar {
+  border-bottom: 2px solid rgb(23, 132, 185);
+}
+
+.header-logo {
+  width: 100%;
+  max-width: 220px; /* Adjust the max-width as needed */
+  height: auto;
+}
+
+/* Responsive adjustments */
+@media (max-width: 767.98px) {
+  .header-logo {
+    max-width: 100px; /* Adjust the max-width for mobile devices */
+  }
+}
